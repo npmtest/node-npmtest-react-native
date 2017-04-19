@@ -314,7 +314,7 @@
 <tspan x="10" y="4986">  │ │ └── bser@2.0.0 </tspan>
 <tspan x="10" y="5002">  │ ├─┬ micromatch@2.3.11 </tspan>
 <tspan x="10" y="5018">  │ │ ├─┬ arr-diff@2.0.0 </tspan>
-<tspan x="10" y="5034">  │ │ │ └── arr-flatten@1.0.2 </tspan>
+<tspan x="10" y="5034">  │ │ │ └── arr-flatten@1.0.3 </tspan>
 <tspan x="10" y="5050">  │ │ ├── array-unique@0.2.1 </tspan>
 <tspan x="10" y="5066">  │ │ ├─┬ braces@1.8.5 </tspan>
 <tspan x="10" y="5082">  │ │ │ ├─┬ expand-range@1.8.2 </tspan>
@@ -403,7 +403,7 @@
 <tspan x="10" y="6410">  │   └── ultron@1.1.0 </tspan>
 <tspan x="10" y="6426">  ├── react-timer-mixin@0.13.3 </tspan>
 <tspan x="10" y="6442">  ├─┬ react-transform-hmr@1.0.4 </tspan>
-<tspan x="10" y="6458">  │ ├─┬ global@4.3.1 </tspan>
+<tspan x="10" y="6458">  │ ├─┬ global@4.3.2 </tspan>
 <tspan x="10" y="6474">  │ │ ├─┬ min-document@2.19.0 </tspan>
 <tspan x="10" y="6490">  │ │ │ └── dom-walk@0.1.1 </tspan>
 <tspan x="10" y="6506">  │ │ └── process@0.5.2 </tspan>
@@ -418,7 +418,7 @@
 <tspan x="10" y="6650">  │ ├── extend@3.0.0 </tspan>
 <tspan x="10" y="6666">  │ ├── forever-agent@0.6.1 </tspan>
 <tspan x="10" y="6682">  │ ├─┬ har-validator@4.2.1 </tspan>
-<tspan x="10" y="6698">  │ │ ├─┬ ajv@4.11.6 </tspan>
+<tspan x="10" y="6698">  │ │ ├─┬ ajv@4.11.7 </tspan>
 <tspan x="10" y="6714">  │ │ │ └── co@4.6.0 </tspan>
 <tspan x="10" y="6730">  │ │ └── har-schema@1.0.5 </tspan>
 <tspan x="10" y="6746">  │ ├─┬ hawk@3.1.3 </tspan>

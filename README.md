@@ -1,6 +1,6 @@
 # npmtest-react-native
 
-#### test coverage for  [react-native (v0.43.3)](https://github.com/facebook/react-native#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-native.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-native) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-native.svg)](https://travis-ci.org/npmtest/node-npmtest-react-native)
+#### basic test coverage for  [react-native (v0.43.4)](https://github.com/facebook/react-native#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-native.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-native) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-native.svg)](https://travis-ci.org/npmtest/node-npmtest-react-native)
 
 #### A framework for building native apps using React
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-native/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-native/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-native/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-native/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-native/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-native/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-native/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-native/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-native/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-native/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-native/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-native/build/coverage.html/index.html)
 
@@ -143,8 +143,8 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "4f8e0d8d88827553789c02ef21cbc1afb68474d0",
-        "tarball": "https://registry.npmjs.org/react-native/-/react-native-0.43.3.tgz"
+        "shasum": "92fb6937ab415b2e5612835a93a61845de98eb4d",
+        "tarball": "https://registry.npmjs.org/react-native/-/react-native-0.43.4.tgz"
     },
     "engines": {
         "node": ">=4"
@@ -308,7 +308,7 @@
         "test-android-setup": "docker pull containership/android-base:latest",
         "test-android-unit": "npm run test-android-build && npm run test-android-run-unit"
     },
-    "version": "0.43.3"
+    "version": "0.43.4"
 }
 ```
 
